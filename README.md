@@ -99,7 +99,7 @@ Sistema de autenticação com JWT
 Plano freemium e premium (pagamento com Stripe)
 
  Desenvolvido por
-Erick Dos Santos
+ Erick Dos Santos
  Dev fullstack em ascensão
  Missão: transformar ideias em produtos que ajudam pessoas
  Contato: LinkedIn | GitHub
